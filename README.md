@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Salsabilla Adisty</h1>
 <h3 align="center">AI/ML & Data Enthusiast</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slsbillaadst&label=Profile%20views&color=0e75b6&style=flat" alt="slsbillaadstyy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salsabillaadistyy&label=Profile%20views&color=0e75b6&style=flat" alt="slsbillaadstyy" /> </p>
 <p align="center">🌱 I am Salsabilla Adisty, a fresh graduate with a Bachelor's degree in Computer Science. My interests are primarily focused on artificial intelligence technologies such as machine learning and deep learning. I'm successfully participated in the Machine Learning Cohort at Bangkit Academy 2023 and demonstrated my knowledge through my thesis project, which involved fish species classification using Cascade Ensemble Transfer Learning implemented with the Python and Tensorflow framework. I have completed several training programs offered by Coursera, Dicoding, AWS Amazon, and DTS Kominfo. During my studies, also successfully developed other projects, including the Android-based SIRUTAN application, application interface design (UI), web-based information systems, and a neural network for cat species classification.
 
 <h3 align="left">Connect with me:</h3>
